@@ -1,28 +1,23 @@
-<div align="center"> <a href="https://flowfuse.com/">
-    <img
-      src="https://github.com/flowforge/website/blob/main/src/handbook/images/logos/ff-logo--wordmark--light.png"
-      width="300"
-      height="auto"
-    />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto"> <a href="https://flowfuse.com/" rel="nofollow">
+    <img src="https://github.com/flowforge/website/raw/main/src/handbook/images/logos/ff-logo--wordmark--light.png" width="300" height="auto" style="max-width: 100%;">
   </a>
 </div>
-
-FlowFuse helps Node-RED developers deliver applications in a more reliable, collaborative and secure manner. Node-RED’s intuitive, low-code development environment is great for connecting together hardware devices, APIs and online services. FlowFuse adds to Node-RED collaborative development, management of remote deployments, support for DevOps deliver pipelines, and the ability to host Node-RED applications on FlowFuse Cloud. FlowFuse is the devops platform for Node-RED application development and delivery.
-
-
-## Key Features
-
-* FlowFuse adds team collaboration to Node-RED, allowing multiple developers to work together on a single instance.
-* Many organizations deploy Node-RED instances to remote servers or edge devices. FlowFuse automates this process by creating snapshots on Node-RED instances that can be deployed to multiple remote targets. 
-* FlowFuse simplifies the software development lifecycle of Node-RED applications. You can now set up DevOps delivery pipelines to support development, test and production environments for Node-RED application delivery.
-* FlowFuse is available from [FlowFuse Cloud](https://app.flowfuse.com/account/create), a managed cloud service, or a self-hosted solution. 
-* FlowFuse offers professional technical support for FlowFuse and Node-RED.
-
-## Links
-
-- [Home Page](https://flowfuse.com/)
-- [Documentation](https://flowfuse.com/docs)
-- [Contributing](https://flowfuse.com/docs/contribute/introduction/)
-- [Code of Conduct](https://github.com/FlowFuse/flowfuse/blob/main/CODE_OF_CONDUCT.md)
-- [Security](https://github.com/FlowFuse/flowfuse/blob/main/SECURITY.md)
-- [License](https://github.com/FlowFuse/flowfuse/blob/main/LICENSE)
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse 帮助 Node-RED 开发人员以更可靠、协作和安全的方式交付应用程序。</font><font style="vertical-align: inherit;">Node-RED 直观的低代码开发环境非常适合将硬件设备、API 和在线服务连接在一起。</font><font style="vertical-align: inherit;">FlowFuse 增强了 Node-RED 协作开发、远程部署管理、DevOps 交付管道支持以及在 FlowFuse Cloud 上托管 Node-RED 应用程序的能力。</font><font style="vertical-align: inherit;">FlowFuse 是用于 Node-RED 应用程序开发和交付的 DevOps 平台。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-key-features" class="anchor" aria-hidden="true" tabindex="-1" href="#key-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse 为 Node-RED 添加了团队协作功能，允许多个开发人员在单个实例上协同工作。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许多组织将 Node-RED 实例部署到远程服务器或边缘设备。</font><font style="vertical-align: inherit;">FlowFuse 通过在可部署到多个远程目标的 Node-RED 实例上创建快照来自动化此过程。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse 简化了 Node-RED 应用程序的软件开发生命周期。</font><font style="vertical-align: inherit;">您现在可以设置 DevOps 交付管道来支持 Node-RED 应用程序交付的开发、测试和生产环境。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse 可通过</font></font><a href="https://app.flowfuse.com/account/create" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、托管云服务或自托管解决方案获得。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FlowFuse 为 FlowFuse 和 Node-RED 提供专业的技术支持。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-links" class="anchor" aria-hidden="true" tabindex="-1" href="#links"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></h2>
+<ul dir="auto">
+<li><a href="https://flowfuse.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页</font></font></a></li>
+<li><a href="https://flowfuse.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://flowfuse.com/docs/contribute/introduction/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="https://github.com/FlowFuse/flowfuse/blob/main/CODE_OF_CONDUCT.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为守则</font></font></a></li>
+<li><a href="https://github.com/FlowFuse/flowfuse/blob/main/SECURITY.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></a></li>
+<li><a href="https://github.com/FlowFuse/flowfuse/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
+</article></div>
